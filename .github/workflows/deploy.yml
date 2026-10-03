@@ -9,4 +9,4 @@ jobs:
 
     steps:
       - name: Just a Hello world
-        run: echo "Hello world as the first commit with a Github ACtions"
+        run: echo "Hello world as the first commit with a Github Actions"
